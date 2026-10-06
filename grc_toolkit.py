@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""GRC Data Analysis Toolkit - Week 1
-Student: Madina Gabbazova
+"""GRC Data Analysis Toolkit 
+Student: Leyla Rakhmatova
 Course: Cybersecurity Policy & Risk Management
 
 Part 1: Organizational Profile Analyzer
